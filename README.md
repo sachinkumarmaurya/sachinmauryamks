@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Your Name**, a Computer Science student interested in
+Hi! I'm **SACHIN KUMAR MAURYA**, a Computer Science student interested in
 programming and web development.
 
 - 🎓 Computer Science Student
@@ -67,7 +67,7 @@ programming and web development.
 
 A website for managing and displaying campus events.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** HTML, CSS
 
 🔗 [View Project](https://github.com/sachinmauryamks)
 
@@ -134,11 +134,11 @@ Basic C programming programs and problem-solving practice.
 ## 🤝 Connect With Me
 
 <p>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/sachin-kumar-maurya-07aa57414/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:"SACHINMAURYAMKS@GMAIL.COM">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
