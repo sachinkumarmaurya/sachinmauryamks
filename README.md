@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://github.com/sachinmauryamks">
+<a href="https://github.com/sachinkumarmaurya">
 <img src="https://img.shields.io/badge/GitHub-sachinmauryamks-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
