@@ -13,7 +13,7 @@
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://www.linkedin.com/in/sachin-kumar-maurya-07aa57414//badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:YOUR_EMAIL">
@@ -32,9 +32,9 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
 
-Hi, I'm **Sachin Maurya**.
+Hi, I'm **SACHIN KUMAR MAURYA**.
 
-I'm a **Computer Science student** interested in programming, web development, and software development.
+I'm a **Computer Science  student** interested in programming, web development, and software development.
 
 I enjoy learning by building projects and solving programming problems.
 
