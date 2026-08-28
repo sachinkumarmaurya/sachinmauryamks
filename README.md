@@ -9,7 +9,7 @@
 <br><br>
 
 <a href="https://github.com/sachinkumarmaurya">
-<img src="https://img.shields.io/badge/GitHub-sachinmauryamks-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-sachinkumarmaurya-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/sachin-kumar-maurya-07aa57414/">
