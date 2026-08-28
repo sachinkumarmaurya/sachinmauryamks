@@ -1,12 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SACHIN%20KUMAR%20MAURYA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&color=gradient" width="100%"/>
+<!-- ===================== HEADER ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=&fontSize=50&fontColor=ffffff&animation=fadeIn&color=gradient" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sachin+Kumar+Maurya+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Web+Development+Learner+%F0%9F%8C%90;Python+%26+C+Programmer+%F0%9F%90%8D;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80;Turning+Ideas+Into+Code+%F0%9F%92%BB" />
+<!-- ANIMATED NAME -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=SACHIN+KUMAR+MAURYA+%F0%9F%91%8B;SACHIN+KUMAR+MAURYA+%F0%9F%92%BB;SACHIN+KUMAR+MAURYA+%F0%9F%9A%80;SACHIN+KUMAR+MAURYA+%F0%9F%94%A5" />
+
+<br>
+
+<!-- ANIMATED ROLE -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student+%F0%9F%8E%93;Web+Development+Learner+%F0%9F%8C%90;Python+%26+C+Programmer+%F0%9F%90%8D;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80;Turning+Ideas+Into+Code+%F0%9F%92%BB" />
 
 <br><br>
+
+<!-- SOCIAL LINKS -->
 
 <a href="https://github.com/sachinmauryamks">
 <img src="https://img.shields.io/badge/GitHub-sachinmauryamks-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -22,6 +34,8 @@
 
 <br><br>
 
+<!-- PROFILE VIEWS -->
+
 <img src="https://komarev.com/ghpvc/?username=sachinmauryamks&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge">
 
 </div>
@@ -34,7 +48,7 @@
 
 Hi, I'm **Sachin Kumar Maurya**.
 
-I'm a **Computer Science student** interested in programming, web development, and software development.
+I'm a **Computer Science student** interested in programming, web development, problem solving, and software development.
 
 I enjoy learning by building projects, solving programming problems, and continuously improving my technical skills.
 
@@ -75,20 +89,26 @@ I'm currently focused on developing strong programming fundamentals while gradua
 
 ## 💻 Programming
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=c,python" />
+
 </p>
 
 ## 🌐 Web Development
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=html,css,js" />
+
 </p>
 
 ## 🔧 Tools
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </p>
 
 ---
@@ -268,12 +288,12 @@ I'm continuously learning and building new projects.
 
 ### 🔮 Next Projects
 
-- JavaScript projects
-- More web applications
-- Python mini-projects
+- JavaScript Projects
+- More Web Applications
+- Python Mini Projects
 - Data Structures
-- Problem solving projects
-- Open Source contributions
+- Problem Solving Projects
+- Open Source Contributions
 
 <br>
 
