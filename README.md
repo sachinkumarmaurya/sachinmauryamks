@@ -1,115 +1,285 @@
-<!-- ============================================================ -->
-<!--                     SACHIN MAURYA                           -->
-<!--                 GitHub Profile README                       -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-<!-- HERO -->
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:0F172A,65:1E3A8A,100:7C3AED&text=SACHIN%20MAURYA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20DEVELOPER%20%7C%20BUILDER&descAlignY=61&descSize=18&animation=fadeIn"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=SACHIN%20MAURYA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descSize=17&color=gradient" width="100%"/>
 
 <br>
 
-<!-- TYPING ANIMATION -->
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sachin+Maurya+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Web+Development+Learner+%F0%9F%8C%90;Python+%26+C+Programmer+%F0%9F%90%8D;Building+Projects+%7C+Learning+Every+Day+%F0%9F%9A%80;Turning+Ideas+Into+Code+%F0%9F%92%BB"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sachin+Maurya+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Web+Development+Learner+%F0%9F%8C%90;Python+%26+C+Programmer+%F0%9F%90%8D;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80" />
 
 <br><br>
 
-<!-- SOCIAL BUTTONS -->
-
 <a href="https://github.com/sachinmauryamks">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
 
-<!-- PROFILE VIEWS -->
-
-<img src="https://komarev.com/ghpvc/?username=sachinmauryamks&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sachinmauryamks&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge">
 
 </div>
 
+---
 
-<!-- ============================================================ -->
-<!--                         INTRO                                -->
-<!-- ============================================================ -->
+# 👨‍💻 About Me
 
-<h2>👋 About Me</h2>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320">
+
+Hi, I'm **Sachin Maurya**.
+
+I'm a **Computer Science student** interested in programming, web development, and software development.
+
+I enjoy learning by building projects and solving programming problems.
+
+### 🚀 What I'm doing right now
+
+- 🌱 Learning **HTML, CSS, Python and C**
+- 🌐 Exploring **Web Development**
+- 🧠 Improving programming logic
+- 💻 Building practical projects
+- 🔧 Learning Git & GitHub
+- 📚 Strengthening Computer Science fundamentals
+- 🎯 Working toward becoming a **Software Developer**
+
+<br clear="right"/>
+
+---
+
+# 🧠 My Developer Mindset
+
+<div align="center">
+
+| 📚 LEARN | 💻 BUILD | 🐛 DEBUG | 🚀 IMPROVE |
+|:---:|:---:|:---:|:---:|
+| Learn concepts | Turn ideas into code | Find & fix problems | Repeat & grow |
+
+<br>
+
+### `LEARN → PRACTICE → BUILD → DEBUG → IMPROVE`
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python" />
+</p>
+
+## 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+## 🔧 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📊 Skills & Learning Status
+
+<div align="center">
+
+| Technology | Status | Current Focus |
+|:---:|:---:|:---|
+| 🟧 HTML | 🟢 Learning | Web Structure |
+| 🟦 CSS | 🟢 Learning | Styling & Responsive Design |
+| 🐍 Python | 🟢 Learning | Programming & Problem Solving |
+| 🔵 C | 🟢 Learning | Programming Fundamentals |
+| 🟨 JavaScript | 🟡 Exploring | Web Interactivity |
+| 🔧 Git | 🟡 Learning | Version Control |
+| 🐙 GitHub | 🟡 Learning | Collaboration & Projects |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
 
 <table>
+
 <tr>
 
-<td width="65%" valign="top">
+<td width="50%" valign="top">
 
-### Hello! I'm Sachin Maurya.
+## 🌐 Campus Events Website
 
-I'm a **Computer Science student** who enjoys learning programming,
-building projects, and exploring web development.
+A web project designed to showcase and manage college campus events.
 
-I'm currently focused on developing strong programming fundamentals
-while gradually moving toward modern software development.
+### Tech Used
 
-I believe that becoming a good developer isn't about knowing
-everything — it's about **learning consistently and building things.**
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
-### 🚀 Currently
+### Focus
 
-- 🌱 Learning **HTML, CSS, Python & C**
-- 🌐 Exploring **Web Development**
-- 🧠 Improving **problem-solving skills**
-- 💻 Building small practical projects
-- 🔧 Learning Git & GitHub workflows
-- 📚 Strengthening programming fundamentals
-- 🎯 Working toward becoming a **Software Developer**
+- Website structure
+- User interface
+- Responsive design
+- Frontend development
+
+<br>
+
+<a href="https://github.com/sachinmauryamks/campus-events-website">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-238636?style=for-the-badge&logo=github">
+
+</a>
 
 </td>
 
-<td width="35%" valign="top">
+<td width="50%" valign="top">
 
-```yaml
-name: Sachin Maurya
+## 🐍 Python Projects
 
-username: sachinmauryamks
+A collection of Python programs and mini-projects created while learning Python.
 
-role:
-  Computer Science Student
+### Topics
 
-interests:
-  - Programming
-  - Web Development
-  - Problem Solving
-  - Software Development
+- Variables
+- Conditions
+- Loops
+- Functions
+- Lists
+- Problem solving
 
-languages:
-  - C
-  - Python
-  - HTML
-  - CSS
+<br>
 
-currently_learning:
-  - JavaScript
-  - Git
-  - Data Structures
+<a href="YOUR_PYTHON_REPOSITORY">
 
-mindset:
-  - Learn
-  - Build
-  - Debug
-  - Improve
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-goal:
-  Software Developer
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🔵 C Programming
+
+Programming exercises focused on strengthening C fundamentals.
+
+### Topics
+
+- Variables
+- Operators
+- Conditions
+- Loops
+- Arrays
+- Functions
+- Pointers
+
+<br>
+
+<a href="YOUR_C_REPOSITORY">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-00599C?style=for-the-badge&logo=c">
+
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🚧 More Coming Soon
+
+I'm continuously learning and building new projects.
+
+### Next Projects
+
+- JavaScript projects
+- More web applications
+- Python mini-projects
+- Data Structures
+- Problem solving projects
+
+<br>
+
+<img src="https://img.shields.io/badge/BUILDING-7C3AED?style=for-the-badge&logo=github">
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🧭 My Learning Roadmap
+
+```text
+                         COMPUTER SCIENCE
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │ Programming Basics │
+                     └──────────┬─────────┘
+                                │
+              ┌─────────────────┴─────────────────┐
+              ▼                                   ▼
+       ┌──────────────┐                    ┌──────────────┐
+       │ C Programming│                    │   Python     │
+       └──────┬───────┘                    └──────┬───────┘
+              │                                   │
+              └─────────────────┬─────────────────┘
+                                ▼
+                       ┌─────────────────┐
+                       │ Problem Solving │
+                       └────────┬────────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │   HTML + CSS       │
+                     └──────────┬─────────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │ Web Development    │
+                     └──────────┬─────────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │    JavaScript      │
+                     └──────────┬─────────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │ Git + GitHub       │
+                     └──────────┬─────────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │ Data Structures    │
+                     │ & Algorithms       │
+                     └──────────┬─────────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │ Real World Projects│
+                     └──────────┬─────────┘
+                                │
+                                ▼
+                     ┌────────────────────┐
+                     │ Software Developer │
+                     └────────────────────┘
